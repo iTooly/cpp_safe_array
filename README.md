@@ -1,2 +1,2 @@
-# cpp_safe_array
+# C++ Safe Array
 A safe array implementation in C++
